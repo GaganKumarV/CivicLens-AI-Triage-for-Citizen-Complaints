@@ -1,0 +1,8 @@
+{
+  "name": "CivicLens — AI Citizen Complaint & Municipal Triage",
+  "description": "AI-powered Indian citizen complaint management and municipal triage system for Bengaluru and urban local bodies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
